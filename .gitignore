@@ -8,5 +8,5 @@ out
 gen
 # Created by .ignore support plugin (hsz.mobi)
 
-# Node modules
-code/node_modules/*
+#node modules
+/code/node_modules
